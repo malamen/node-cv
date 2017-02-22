@@ -11,3 +11,8 @@
 
  var a = CV.RGBMat(3,3)
  console.log(a.at(1,1))
+
+ CV.open('lena.jpg', 1, function(img){
+ 	console.log(img);
+ })
+ 

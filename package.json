@@ -20,6 +20,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "images": "^3.0.0"
+    "get-pixels": "^3.3.0"
   }
 }
