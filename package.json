@@ -1,0 +1,25 @@
+{
+  "name": "node-cv",
+  "version": "0.0.1",
+  "description": "Javascript Computer Vision Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computer vision",
+    "cv",
+    "image processing",
+    "matrix",
+    "opencv"
+  ],
+  "author": "malamen <d.chavezescobar@gmail.com> (http://www.malamen88.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malamen/node-cv.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "images": "^3.0.0"
+  }
+}
